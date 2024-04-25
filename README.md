@@ -7,4 +7,19 @@
   This was a basic page displaying information about the World Wide Web and how to use it.
   This marks the beginning of the history of web development as we know it today.🚀
 
+  💻 Mes compétences:
+  
+  💻 Editeur de code
+  Visual Studio Code PhpStorm
 
+  📲 Front-End
+  CSS3 JavaScript HTML5
+
+  🔑 Back-End
+  PHP MySQL MariaDB
+
+ 🔎 Framework
+ 
+ 🔧 Maquettage Web
+  
+  Outils de développement
