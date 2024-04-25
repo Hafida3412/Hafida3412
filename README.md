@@ -7,27 +7,36 @@
   This was a basic page displaying information about the World Wide Web and how to use it.
   This marks the beginning of the history of web development as we know it today.🚀
 
-  💻 Mes compétences:
-   
-- 📲 Front-End
-  CSS JavaScript HTML
 
-- 🔑 Back-End
-  PHP MySQL MariaDB
+  
+💻 MES COMPETENCES:
 
-- 🔎 Framework
-  Symphony
-    
-  Outils de développement:
-- Docker
-- Git
-- Visual Studio Code
+📲 Front-End:
+  - CSS, JavaScript et HTML
+  -> Création d'interfaces utilisateur attrayantes et fonctionnelles
 
-  Méthodologie de conception:
-- Merise
-- Flicker
+🔑 Back-End:
+  - PHP, MySQL et MariaDB
+  -> Développement d'applications web robustes et performantes côté serveur
 
-- 🔧 Modélisation, Maquettage Web
-- 🔧 Intégration de site
-- 🔧 Programmation Orientée Objet
-- 🔧 Débugage
+🔎 Framework:
+  - Symfony
+  -> Développement rapide et efficace d'applications web complexes
+
+Outils de développement:
+- Docker, Git et Visual Studio Code
+
+Méthodologie de conception:
+- Merise et Flicker
+
+🔧 Modélisation, Maquettage Web:
+-> Conception de maquettes web attrayantes et ergonomiques
+
+🔧 Intégration de site:
+-> Structuration et fonctionnalité des sites web
+
+🔧 Programmation Orientée Objet:
+-> Création d'applications modulaires et faciles à maintenir
+
+🔧 Débugage:
+-> Résolution rapide et efficace des problèmes de code
