@@ -9,34 +9,28 @@
 
 
   
-💻 MES COMPETENCES:
+💻 MY SKILLS:
 
 📲 Front-End:
-  - CSS, JavaScript et HTML
-  -> Création d'interfaces utilisateur attrayantes et fonctionnelles
+CSS, JavaScript and HTML 
+-> Creating attractive and functional user interfaces
 
 🔑 Back-End:
-  - PHP, MySQL et MariaDB
-  -> Développement d'applications web robustes et performantes côté serveur
+PHP, MySQL and MariaDB
+-> Development of robust and efficient server-side web applications
 
-🔎 Framework:
-  - Symfony
-  -> Développement rapide et efficace d'applications web complexes
+🔎Framework:
+Symfony 
+-> Fast and efficient development of complex web applications
 
-🛠️ Outils de développement:
-- Docker, Git et Visual Studio Code
+🛠️ Developer tools: -> Docker, Git and Visual Studio Code
 
-🛠️ Méthodologie de conception:
-- Merise et Flicker
+🛠️ Design methodology: -> Merise and Flicker
 
-🔧 Modélisation, Maquettage Web:
--> Conception de maquettes web attrayantes et ergonomiques
+🔧 Modeling, Web Mockup: -> Design of attractive and ergonomic web models
 
-🔧 Intégration de site:
--> Structuration et fonctionnalité des sites web
+🔧 Site integration: -> Structuring and functionality of websites
 
-🔧 Programmation Orientée Objet:
--> Création d'applications modulaires et faciles à maintenir
+🔧 Object Oriented Programming: -> Creation of modular and easy to maintain applications
 
-🔧 Débugage:
--> Résolution rapide et efficace des problèmes de code
+🔧 Debugging: -> Fast and efficient code problem solving
