@@ -23,10 +23,10 @@
   - Symfony
   -> Développement rapide et efficace d'applications web complexes
 
-Outils de développement:
+🛠️ Outils de développement:
 - Docker, Git et Visual Studio Code
 
-Méthodologie de conception:
+🛠️ Méthodologie de conception:
 - Merise et Flicker
 
 🔧 Modélisation, Maquettage Web:
