@@ -8,18 +8,26 @@
   This marks the beginning of the history of web development as we know it today.🚀
 
   💻 Mes compétences:
-  
-  💻 Editeur de code
-  Visual Studio Code PhpStorm
+   
+- 📲 Front-End
+  CSS JavaScript HTML
 
-  📲 Front-End
-  CSS3 JavaScript HTML5
-
-  🔑 Back-End
+- 🔑 Back-End
   PHP MySQL MariaDB
 
- 🔎 Framework
- 
- 🔧 Maquettage Web
-  
-  Outils de développement
+- 🔎 Framework
+  Symphony
+    
+  Outils de développement:
+- Docker
+- Git
+- Visual Studio Code
+
+  Méthodologie de conception:
+- Merise
+- Flicker
+
+- 🔧 Modélisation, Maquettage Web
+- 🔧 Intégration de site
+- 🔧 Programmation Orientée Objet
+- 🔧 Débugage
